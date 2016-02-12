@@ -65,3 +65,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 <?php do_action( 'woocommerce_email_customer_details', $order, $sent_to_admin, $plain_text ); ?>
 
 <?php do_action( 'woocommerce_email_footer' ); ?>
+
+<?php do_action( 'woocommerce_email_footer' ); ?>
+<?php do_action( 'woocommerce_email_footer' ); ?>
+<?php do_action( 'woocommerce_email_footer' ); ?>
